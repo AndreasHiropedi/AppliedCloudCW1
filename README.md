@@ -2,4 +2,4 @@
 
 First coursework of the Applied Cloud Programming course.
 
-Mark: /100
+Mark: 100/100
